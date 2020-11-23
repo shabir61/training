@@ -1,1 +1,7 @@
 aws-okta git-lfs terraform-docs caskroom/fonts homebrew/cask-fonts install autoconf what terragrunt qemu guestfish python python --overwrite python@2 python3 python --upgrade python@3 python awscli packer packer packer --overwrite meld install helm@2.16.3 helm@v2.16.3 kubernetes-helm@2.16.3 node git-delta install watch minikube minikube minikube@1.18 minikube fzf redis yarn xq grep psql /usr/local/opt/terraform@0.12 terraform@0.12 install ccat maven putty-tools putty sops gron install grep aws-okta aws-okta -R aws-okta aws-okta
+
+https://zapier.com/zappy
+https://code.visualstudio.com/download
+https://github.com/lensapp/lens
+https://www.postman.com/downloads/
+
